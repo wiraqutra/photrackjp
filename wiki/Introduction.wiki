@@ -7,6 +7,7 @@ photrackjp は [http://tonomagokoro.net/ 遠野まごころネット] で行わ�
 作業主体はすべてボランティア参加者です。
 [http://tonomagokoro.net/?p=1823 こちら](遠野まごころネットの情報)も参照ください。
 
+== 一連の流れ ==
  # 被災者の方々から持ち込まれた写真(アルバム)を受け付ける
   * 被災現場から回収される写真もあります
   * 所有者不明の写真もあります
@@ -26,6 +27,11 @@ photrackjp は [http://tonomagokoro.net/ 遠野まごころネット] で行わ�
   * いわゆるフォトレタッチです
  # 修復されたファイルを被災者の方々に返す
   * プリントは被災者の方々にやってもらいます
+
+== 作業マニュアル ==
+ * 遠野まごころネットで作成した手書きのマニュアルをデジタル化したものです
+  * [https://docs.google.com/document/d/1FLcHKj1bSYGWu81ujNW2OE-kvAYSMasqNFehrmEp_bc/edit?hl=ja&pli=1 docx(Google docs)]
+  * [https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B00oGaznAK8HMjljNGQ1NDQtNWIxMC00MjU3LWEwMjctYjczN2FkYmVlMzgz&hl=ja pdf(Google docs)]
 
 = photrackjp のゴール =
 記載順に短期～中長期の目標です。
