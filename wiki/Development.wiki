@@ -21,6 +21,9 @@ http://ec2-175-41-212-49.ap-northeast-1.compute.amazonaws.com/trac/test
    * 8GB 超えたら自動でスケーリングされるのか?
  # 秘密鍵を作成して ssh でログイン
   * 秘密鍵が必要な方は Google Group で連絡をとってください
+  * (蛇足)[http://www.studio-fix.com/blog/kaoru/2009/05/17/post175/ こんな情報]を発見して一瞬不安になったが...
+   * 現時点の AMI だとちゃんとしているっぽい
+   * sshd_config 見た感じでも大丈夫
  # 各種パッケージのインストール
   # apache 周り
 {{{
